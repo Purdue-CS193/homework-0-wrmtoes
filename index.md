@@ -1,5 +1,7 @@
 # Aarshya Dhiljith's First CS193 Homework
 
+### CS193
+
 I'm Aarshya, a freshman at Purdue studying computer science. I am currently enrolled in CS193 to learn more about tools I can use in computer science!
 
 My favorite things about CS193 are:
