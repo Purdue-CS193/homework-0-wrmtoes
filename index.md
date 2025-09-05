@@ -1,3 +1,12 @@
+# Aarshya Dhiljith's First CS193 Homework
+
+I'm Aarshya, a freshman at Purdue studying computer science. I am currently enrolled in CS193 to learn more about tools I can use in computer science!
+
+My favorite things about CS193 are:
+- How informative the lectures are
+- The difficulty level of assignments
+- The relevance of the content in the class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
